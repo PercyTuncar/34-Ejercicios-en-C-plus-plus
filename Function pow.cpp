@@ -11,5 +11,4 @@ int main() {
     cin >> potencia;
     cout << "El resultado de elevar el numero a la potencia es: " << pow(numero, potencia) << endl; 
 }
-
  
