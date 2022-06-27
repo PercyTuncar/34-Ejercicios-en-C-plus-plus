@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     char cadena[100];
     cout << "Introduce una cadena: ";
-    cin.getline(cadena, 100);
+    cin >> cadena;
     for (int i = 0; i < strlen(cadena); i++) {
         cadena[i] = tolower(cadena[i]);
     }
