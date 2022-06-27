@@ -1,6 +1,6 @@
-// Esta aplicacion calcula el valor absoluto de un numero (Convierte un numero negativo en positivo)
+// Esta aplicación calcula el valor absoluto de un número (Convierte un número negativo en positivo)
 #include <iostream>
-#include <cmath>
+#include <stdlib.h>
 using namespace std;
 int main() {
     int num;
